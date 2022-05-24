@@ -1,0 +1,39 @@
+
+body {
+    background: #2f3136;      
+}
+.container {
+    width: 800px;
+    padding: 10px;
+}
+.item {
+    margin-top: 20px;
+    padding: 10px;
+    border: 3px solid #5d9696;
+}
+h1 {
+    color: #e82c3f;
+    text-align: center;
+    font-size: 5em
+}
+
+.title {
+    color:#a2baa8;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    color: #1de051
+}
+
+.date {
+    color: #ebeb0e;
+    text-align: right;
+    margin-right: 100px;
+        
+}
+.short_content {
+   color: #2ca0e8;
+   margin-bottom: 10px
+}
